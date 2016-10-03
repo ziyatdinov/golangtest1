@@ -1,6 +1,9 @@
 {
 	"ImportPath": "github.com/user/golangtest1",
 	"GoVersion": "go1.6",
+	"Packages": [
+		"./..."
+	],
 	"GodepVersion": "v74",
 	"Deps": []
 }
