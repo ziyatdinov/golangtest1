@@ -1,5 +1,5 @@
 {
-	"ImportPath": "main",
+	"ImportPath": "calm-sea-73550",
 	"GoVersion": "go1.6",
 	"Packages": [
 		"./..."
